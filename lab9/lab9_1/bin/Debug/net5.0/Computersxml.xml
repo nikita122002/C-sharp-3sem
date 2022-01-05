@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfComputer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Computer>
+    <Monitor>
+      <Company>LG</Company>
+      <Name>27GL83A-B</Name>
+      <ScreenSize>27</ScreenSize>
+      <ImageQuality>2560x1440</ImageQuality>
+    </Monitor>
+  </Computer>
+  <Computer>
+    <Monitor>
+      <Company>LG</Company>
+      <Name>27UL500-W</Name>
+      <ScreenSize>27</ScreenSize>
+      <ImageQuality>3840x2160</ImageQuality>
+    </Monitor>
+  </Computer>
+  <Computer>
+    <Monitor>
+      <Company>Samsung</Company>
+      <Name>C24RG50FQI</Name>
+      <ScreenSize>23</ScreenSize>
+      <ImageQuality>1920x1080</ImageQuality>
+    </Monitor>
+  </Computer>
+  <Computer>
+    <Monitor>
+      <Company>LG</Company>
+      <Name>Ultra gear</Name>
+      <ScreenSize>23</ScreenSize>
+      <ImageQuality>1920x1080</ImageQuality>
+    </Monitor>
+  </Computer>
+</ArrayOfComputer>

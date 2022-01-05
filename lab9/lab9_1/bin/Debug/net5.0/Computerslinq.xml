@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<computers>
+  <computer>
+    <monitor name="27GL83A-B">
+      <company>LG</company>
+      <screensize>27</screensize>
+      <imagequality>2560x1440</imagequality>
+    </monitor>
+  </computer>
+  <computer>
+    <monitor name="27UL500-W">
+      <company>LG</company>
+      <screensize>27</screensize>
+      <imagequality>3840x2160</imagequality>
+    </monitor>
+  </computer>
+  <computer>
+    <monitor name="C24RG50FQI">
+      <company>Samsung</company>
+      <screensize>23</screensize>
+      <imagequality>1920x1080</imagequality>
+    </monitor>
+  </computer>
+  <computer>
+    <monitor name="Ultra gear">
+      <company>LG</company>
+      <screensize>23</screensize>
+      <imagequality>1920x1080</imagequality>
+    </monitor>
+  </computer>
+</computers>

@@ -1,0 +1,15 @@
+D:\3 семм\Serializer\bin\Debug\net5.0\Serializer.deps.json
+D:\3 семм\Serializer\bin\Debug\net5.0\Serializer.dll
+D:\3 семм\Serializer\bin\Debug\net5.0\ref\Serializer.dll
+D:\3 семм\Serializer\bin\Debug\net5.0\Serializer.pdb
+D:\3 семм\Serializer\bin\Debug\net5.0\Lab9_1_Domain.dll
+D:\3 семм\Serializer\bin\Debug\net5.0\Lab9_1_Domain.pdb
+D:\3 семм\Serializer\obj\Debug\net5.0\Serializer.csproj.AssemblyReference.cache
+D:\3 семм\Serializer\obj\Debug\net5.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 семм\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfoInputs.cache
+D:\3 семм\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfo.cs
+D:\3 семм\Serializer\obj\Debug\net5.0\Serializer.csproj.CoreCompileInputs.cache
+D:\3 семм\Serializer\obj\Debug\net5.0\Serializer.csproj.CopyComplete
+D:\3 семм\Serializer\obj\Debug\net5.0\Serializer.dll
+D:\3 семм\Serializer\obj\Debug\net5.0\ref\Serializer.dll
+D:\3 семм\Serializer\obj\Debug\net5.0\Serializer.pdb

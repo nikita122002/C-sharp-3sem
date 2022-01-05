@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Lab9_1_Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Lab9_1_Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab9_1_Domain.dll": {}
+        }
+      },
+      "Serializer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Lab9_1_Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Serializer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Serializer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab9_1_Domain/1.0.0": {
+      "type": "project",
+      "path": "../Lab9_1_Domain/Lab9_1_Domain.csproj",
+      "msbuildProject": "../Lab9_1_Domain/Lab9_1_Domain.csproj"
+    },
+    "Serializer/1.0.0": {
+      "type": "project",
+      "path": "../Serializer/Serializer.csproj",
+      "msbuildProject": "../Serializer/Serializer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Lab9_1_Domain >= 1.0.0",
+      "Serializer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nik12\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\3 семм\\lab9_1\\lab9_1.csproj",
+      "projectName": "lab9_1",
+      "projectPath": "D:\\3 семм\\lab9_1\\lab9_1.csproj",
+      "packagesPath": "C:\\Users\\nik12\\.nuget\\packages\\",
+      "outputPath": "D:\\3 семм\\lab9_1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\nik12\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\3 семм\\Lab9_1_Domain\\Lab9_1_Domain.csproj": {
+              "projectPath": "D:\\3 семм\\Lab9_1_Domain\\Lab9_1_Domain.csproj"
+            },
+            "D:\\3 семм\\Serializer\\Serializer.csproj": {
+              "projectPath": "D:\\3 семм\\Serializer\\Serializer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

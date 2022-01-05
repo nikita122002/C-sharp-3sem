@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Serializer/1.0.0": {
+        "dependencies": {
+          "Lab9_1_Domain": "1.0.0"
+        },
+        "runtime": {
+          "Serializer.dll": {}
+        }
+      },
+      "Lab9_1_Domain/1.0.0": {
+        "runtime": {
+          "Lab9_1_Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Serializer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab9_1_Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

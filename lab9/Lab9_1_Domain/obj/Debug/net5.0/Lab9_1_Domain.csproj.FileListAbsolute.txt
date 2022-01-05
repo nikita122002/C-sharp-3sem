@@ -1,0 +1,11 @@
+D:\3 семм\Lab9_1_Domain\bin\Debug\net5.0\Lab9_1_Domain.deps.json
+D:\3 семм\Lab9_1_Domain\bin\Debug\net5.0\Lab9_1_Domain.dll
+D:\3 семм\Lab9_1_Domain\bin\Debug\net5.0\ref\Lab9_1_Domain.dll
+D:\3 семм\Lab9_1_Domain\bin\Debug\net5.0\Lab9_1_Domain.pdb
+D:\3 семм\Lab9_1_Domain\obj\Debug\net5.0\Lab9_1_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 семм\Lab9_1_Domain\obj\Debug\net5.0\Lab9_1_Domain.AssemblyInfoInputs.cache
+D:\3 семм\Lab9_1_Domain\obj\Debug\net5.0\Lab9_1_Domain.AssemblyInfo.cs
+D:\3 семм\Lab9_1_Domain\obj\Debug\net5.0\Lab9_1_Domain.csproj.CoreCompileInputs.cache
+D:\3 семм\Lab9_1_Domain\obj\Debug\net5.0\Lab9_1_Domain.dll
+D:\3 семм\Lab9_1_Domain\obj\Debug\net5.0\ref\Lab9_1_Domain.dll
+D:\3 семм\Lab9_1_Domain\obj\Debug\net5.0\Lab9_1_Domain.pdb

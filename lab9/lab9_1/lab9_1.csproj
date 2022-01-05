@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab9_1_Domain\Lab9_1_Domain.csproj" />
+    <ProjectReference Include="..\Serializer\Serializer.csproj" />
+  </ItemGroup>
+
+</Project>

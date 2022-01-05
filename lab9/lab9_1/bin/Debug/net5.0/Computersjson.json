@@ -1,0 +1,34 @@
+[
+  {
+    "Monitor": {
+      "Company": "LG",
+      "Name": "27GL83A-B",
+      "ScreenSize": 27,
+      "ImageQuality": "2560x1440"
+    }
+  },
+  {
+    "Monitor": {
+      "Company": "LG",
+      "Name": "27UL500-W",
+      "ScreenSize": 27,
+      "ImageQuality": "3840x2160"
+    }
+  },
+  {
+    "Monitor": {
+      "Company": "Samsung",
+      "Name": "C24RG50FQI",
+      "ScreenSize": 23,
+      "ImageQuality": "1920x1080"
+    }
+  },
+  {
+    "Monitor": {
+      "Company": "LG",
+      "Name": "Ultra gear",
+      "ScreenSize": 23,
+      "ImageQuality": "1920x1080"
+    }
+  }
+]
