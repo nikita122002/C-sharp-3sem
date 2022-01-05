@@ -1,0 +1,32 @@
+[
+  {
+    "Salary": 5000,
+    "HigherEducation": true,
+    "Name": "Angel"
+  },
+  {
+    "Salary": 1000,
+    "HigherEducation": false,
+    "Name": "Max"
+  },
+  {
+    "Salary": 2000,
+    "HigherEducation": true,
+    "Name": "Vlad"
+  },
+  {
+    "Salary": 100,
+    "HigherEducation": false,
+    "Name": "Violett"
+  },
+  {
+    "Salary": 10,
+    "HigherEducation": false,
+    "Name": "Alex"
+  },
+  {
+    "Salary": 800,
+    "HigherEducation": true,
+    "Name": "July"
+  }
+]
